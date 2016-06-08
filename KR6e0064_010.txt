@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:57:29.992787
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 15:18
 #+TITLE: 華嚴經論〔卷十〕
 #+PROPERTY: CBETA_ID X03n0208
 #+PROPERTY: ID KR6e0064
